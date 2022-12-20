@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import Sidebar from './components/sidebar/sidebar';
+import Home from './components/pages/home/home';
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
           Learn React
         </a> */}
         <Sidebar/>
+        <Home/>
       </header>
     </div>
   );

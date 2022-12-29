@@ -10,7 +10,7 @@ function Home() {
             <h1>Aditya Bayu Aji</h1>
             <p>I'm <span>
                 <Typed className="job-reference"
-                    strings={['UI Designer','Developer','Freelancer','IT Support']}
+                    strings={['UI Designer','Junior Front-End Developer','Freelancer']}
                     loop
                     typeSpeed= {100}
                     backSpeed= {50}
